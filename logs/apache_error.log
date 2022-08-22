@@ -1,0 +1,15 @@
+[Sat Aug 20 10:56:00.287908 2022] [:notice] [pid 10169] FastCGI: process manager initialized (pid 10169)
+[Sat Aug 20 10:56:00.301131 2022] [mpm_prefork:notice] [pid 10160] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.0.2u PHP/7.4.21 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Sat Aug 20 10:56:00.301489 2022] [core:notice] [pid 10160] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Sat Aug 20 18:13:28.541386 2022] [mpm_prefork:notice] [pid 10160] AH00169: caught SIGTERM, shutting down
+[Sat Aug 20 18:13:35.574635 2022] [:notice] [pid 21962] FastCGI: process manager initialized (pid 21962)
+[Sat Aug 20 18:13:35.586603 2022] [mpm_prefork:notice] [pid 21960] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.0.2u PHP/7.4.21 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Sat Aug 20 18:13:35.587055 2022] [core:notice] [pid 21960] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Sun Aug 21 22:59:06.888103 2022] [php7:error] [pid 21964] [client ::1:54368] script '/Applications/MAMP/htdocs/lesson22.php' not found or unable to stat
+[Mon Aug 22 14:22:01.928819 2022] [authz_core:error] [pid 21968] [client ::1:54599] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/lesson01/.DS_Store
+[Mon Aug 22 14:34:06.589884 2022] [authz_core:error] [pid 21978] [client ::1:54644] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/lesson01/.DS_Store
+[Mon Aug 22 14:34:09.847318 2022] [php7:error] [pid 21978] [client ::1:54644] script '/Applications/MAMP/htdocs/lesson01/sample26/page02.php' not found or unable to stat, referer: http://localhost:8888/lesson01/sample26/
+[Mon Aug 22 14:52:14.011892 2022] [authz_core:error] [pid 21964] [client ::1:58092] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/lesson01/.DS_Store
+[Mon Aug 22 14:59:28.015056 2022] [authz_core:error] [pid 21963] [client ::1:59854] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/lesson01/.DS_Store
+[Mon Aug 22 15:52:11.905550 2022] [authz_core:error] [pid 21982] [client ::1:59973] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/lesson01/.DS_Store
+[Mon Aug 22 16:03:01.515347 2022] [authz_core:error] [pid 21968] [client ::1:60009] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/lesson01/.DS_Store

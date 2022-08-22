@@ -1,0 +1,195 @@
+[20-Aug-2022 09:00:54 UTC] PHP Parse error:  syntax error, unexpected 'm' (T_STRING), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample02.php on line 11
+[20-Aug-2022 09:02:50 UTC] PHP Parse error:  syntax error, unexpected 'm' (T_STRING), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample02.php on line 11
+[20-Aug-2022 09:02:52 UTC] PHP Parse error:  syntax error, unexpected 'm' (T_STRING), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample02.php on line 11
+[20-Aug-2022 09:02:53 UTC] PHP Parse error:  syntax error, unexpected 'm' (T_STRING), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample02.php on line 11
+[20-Aug-2022 09:02:53 UTC] PHP Parse error:  syntax error, unexpected 'm' (T_STRING), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample02.php on line 11
+[20-Aug-2022 09:02:54 UTC] PHP Parse error:  syntax error, unexpected 'm' (T_STRING), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample02.php on line 11
+[20-Aug-2022 09:02:54 UTC] PHP Parse error:  syntax error, unexpected 'm' (T_STRING), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample02.php on line 11
+[20-Aug-2022 09:02:54 UTC] PHP Parse error:  syntax error, unexpected 'm' (T_STRING), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample02.php on line 11
+[20-Aug-2022 09:02:55 UTC] PHP Parse error:  syntax error, unexpected 'm' (T_STRING), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample02.php on line 11
+[20-Aug-2022 09:13:48 UTC] PHP Parse error:  syntax error, unexpected 'm' (T_STRING), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample02.php on line 11
+[20-Aug-2022 18:36:28 Asia/Tokyo] PHP Warning:  A non-numeric value encountered in /Applications/MAMP/htdocs/lesson01/sample04.php on line 3
+[20-Aug-2022 18:36:28 Asia/Tokyo] PHP Notice:  A non well formed numeric value encountered in /Applications/MAMP/htdocs/lesson01/sample04.php on line 3
+[20-Aug-2022 09:38:09 UTC] PHP Parse error:  syntax error, unexpected ''です;' (T_ENCAPSED_AND_WHITESPACE) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 3
+[20-Aug-2022 09:39:42 UTC] PHP Parse error:  syntax error, unexpected ''です;' (T_ENCAPSED_AND_WHITESPACE) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 3
+[20-Aug-2022 09:39:44 UTC] PHP Parse error:  syntax error, unexpected ''です;' (T_ENCAPSED_AND_WHITESPACE) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 3
+[20-Aug-2022 09:39:45 UTC] PHP Parse error:  syntax error, unexpected ''です;' (T_ENCAPSED_AND_WHITESPACE) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 3
+[20-Aug-2022 14:50:16 UTC] PHP Parse error:  syntax error, unexpected '日' (T_STRING) in /Applications/MAMP/htdocs/lesson01/sample07.php on line 6
+[21-Aug-2022 05:58:32 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:58:51 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:58:52 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:58:52 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:58:53 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:58:53 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:58:53 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:58:53 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:58:53 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:09 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:10 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:10 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:10 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:11 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:11 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:11 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:11 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:11 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:11 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:12 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:12 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:12 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:12 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:12 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:12 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:13 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:13 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:13 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:13 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:13 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:13 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:14 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:14 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:14 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:14 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:14 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:14 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:15 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:15 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:15 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:15 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:15 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:16 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 05:59:16 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 06:00:07 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/lesson01/sample10.php on line 2
+[21-Aug-2022 06:15:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /Applications/MAMP/htdocs/lesson01/sample11.php on line 15
+[21-Aug-2022 07:35:48 UTC] PHP Warning:  file_put_contents(data/news.txt): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/lesson01/sample15.php on line 3
+[21-Aug-2022 07:38:59 UTC] PHP Warning:  file_get_contents(data/new.txt): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/lesson01/sample16.php on line 2
+[21-Aug-2022 07:39:19 UTC] PHP Warning:  file_get_contents(data/new.txt): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/lesson01/sample16.php on line 2
+[21-Aug-2022 07:39:19 UTC] PHP Warning:  file_get_contents(data/new.txt): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/lesson01/sample16.php on line 2
+[21-Aug-2022 07:39:28 UTC] PHP Warning:  file_get_contents(data/new.txt): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/lesson01/sample16.php on line 2
+[21-Aug-2022 07:39:35 UTC] PHP Warning:  file_get_contents(data/new.txt): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/lesson01/sample16.php on line 2
+[21-Aug-2022 07:39:56 UTC] PHP Warning:  file_get_contents(data/new.txt): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/lesson01/sample16.php on line 2
+[21-Aug-2022 07:39:57 UTC] PHP Warning:  file_get_contents(data/new.txt): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/lesson01/sample16.php on line 2
+[21-Aug-2022 07:39:58 UTC] PHP Warning:  file_get_contents(data/new.txt): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/lesson01/sample16.php on line 2
+[21-Aug-2022 07:39:59 UTC] PHP Warning:  file_get_contents(data/new.txt): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/lesson01/sample16.php on line 2
+[21-Aug-2022 08:28:37 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:16 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:16 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:19 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:24 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:30 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:30 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:30 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:31 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:31 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:31 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:31 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:31 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:32 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:32 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:32 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:32 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:32 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:33 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:33 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:34 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:34 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:35 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:29:58 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:30:03 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:30:04 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:30:08 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 08:30:17 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /Applications/MAMP/htdocs/lesson01/sample17.php on line 8
+[21-Aug-2022 09:12:06 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /Applications/MAMP/htdocs/lesson01/sample18.php on line 8
+[21-Aug-2022 09:12:28 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /Applications/MAMP/htdocs/lesson01/sample18.php on line 8
+[21-Aug-2022 09:12:29 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /Applications/MAMP/htdocs/lesson01/sample18.php on line 8
+[21-Aug-2022 09:12:37 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /Applications/MAMP/htdocs/lesson01/sample18.php on line 8
+[21-Aug-2022 09:13:04 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /Applications/MAMP/htdocs/lesson01/sample18.php:5
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/lesson01/sample18.php on line 5
+[21-Aug-2022 09:13:23 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /Applications/MAMP/htdocs/lesson01/sample18.php:5
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/lesson01/sample18.php on line 5
+[21-Aug-2022 09:13:28 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /Applications/MAMP/htdocs/lesson01/sample18.php:5
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/lesson01/sample18.php on line 5
+[21-Aug-2022 09:13:28 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /Applications/MAMP/htdocs/lesson01/sample18.php:5
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/lesson01/sample18.php on line 5
+[21-Aug-2022 09:13:39 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /Applications/MAMP/htdocs/lesson01/sample18.php:5
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/lesson01/sample18.php on line 5
+[21-Aug-2022 09:13:41 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /Applications/MAMP/htdocs/lesson01/sample18.php:5
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/lesson01/sample18.php on line 5
+[21-Aug-2022 09:13:52 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /Applications/MAMP/htdocs/lesson01/sample18.php:5
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/lesson01/sample18.php on line 5
+[21-Aug-2022 09:13:53 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /Applications/MAMP/htdocs/lesson01/sample18.php:5
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/lesson01/sample18.php on line 5
+[21-Aug-2022 13:29:11 UTC] PHP Notice:  Undefined index: reserve in /Applications/MAMP/htdocs/lesson01/sample21/submit.php on line 11
+[21-Aug-2022 13:29:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/lesson01/sample21/submit.php on line 13
+[21-Aug-2022 13:34:33 UTC] PHP Parse error:  syntax error, unexpected ';', expecting '(' in /Applications/MAMP/htdocs/lesson01/sample21/submit.php on line 18
+[21-Aug-2022 13:34:57 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ':' in /Applications/MAMP/htdocs/lesson01/sample21/submit.php on line 18
+[21-Aug-2022 13:35:01 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ':' in /Applications/MAMP/htdocs/lesson01/sample21/submit.php on line 18
+[21-Aug-2022 13:35:46 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ':' in /Applications/MAMP/htdocs/lesson01/sample21/submit.php on line 18
+[21-Aug-2022 13:35:49 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ':' in /Applications/MAMP/htdocs/lesson01/sample21/submit.php on line 18
+[21-Aug-2022 13:55:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:55:53 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:55:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:56:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:56:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:56:20 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:56:21 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:56:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:00 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:31 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:31 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[21-Aug-2022 13:57:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample22.php on line 8
+[22-Aug-2022 05:37:31 UTC] PHP Parse error:  syntax error, unexpected 'setcookie' (T_STRING) in /Applications/MAMP/htdocs/lesson01/sample26/index.php on line 3
+[22-Aug-2022 05:39:07 UTC] PHP Notice:  Undefined variable: value in /Applications/MAMP/htdocs/lesson01/sample26/page02.php on line 10
+[22-Aug-2022 05:40:02 UTC] PHP Notice:  Undefined variable: value in /Applications/MAMP/htdocs/lesson01/sample26/page02.php on line 10
+[22-Aug-2022 05:40:10 UTC] PHP Notice:  Undefined variable: value in /Applications/MAMP/htdocs/lesson01/sample26/page02.php on line 10
+[22-Aug-2022 05:40:10 UTC] PHP Notice:  Undefined index: massage in /Applications/MAMP/htdocs/lesson01/sample26/page02.php on line 11
+[22-Aug-2022 05:43:09 UTC] PHP Notice:  Undefined variable: value in /Applications/MAMP/htdocs/lesson01/sample26/page02.php on line 10
+[22-Aug-2022 05:43:09 UTC] PHP Notice:  Undefined index: massage in /Applications/MAMP/htdocs/lesson01/sample26/page02.php on line 11
+[22-Aug-2022 05:43:27 UTC] PHP Notice:  Undefined variable: value in /Applications/MAMP/htdocs/lesson01/sample26/page02.php on line 10
+[22-Aug-2022 05:43:27 UTC] PHP Notice:  Undefined index: massage in /Applications/MAMP/htdocs/lesson01/sample26/page02.php on line 11
+[22-Aug-2022 05:43:28 UTC] PHP Notice:  Undefined variable: value in /Applications/MAMP/htdocs/lesson01/sample26/page02.php on line 10
+[22-Aug-2022 05:43:28 UTC] PHP Notice:  Undefined index: massage in /Applications/MAMP/htdocs/lesson01/sample26/page02.php on line 11
+[22-Aug-2022 05:43:29 UTC] PHP Notice:  Undefined variable: value in /Applications/MAMP/htdocs/lesson01/sample26/page02.php on line 10
+[22-Aug-2022 05:43:29 UTC] PHP Notice:  Undefined index: massage in /Applications/MAMP/htdocs/lesson01/sample26/page02.php on line 11
+[22-Aug-2022 05:44:28 UTC] PHP Notice:  Undefined variable: value in /Applications/MAMP/htdocs/lesson01/sample26/page02.php on line 10
+[22-Aug-2022 05:47:00 UTC] PHP Notice:  Undefined variable: value in /Applications/MAMP/htdocs/lesson01/sample26/page02.php on line 10
+[22-Aug-2022 05:52:16 UTC] PHP Notice:  Undefined variable: value in /Applications/MAMP/htdocs/lesson01/sample27/page02.php on line 10
+[22-Aug-2022 05:52:16 UTC] PHP Notice:  Undefined index: message in /Applications/MAMP/htdocs/lesson01/sample27/page02.php on line 11
+[22-Aug-2022 06:39:38 UTC] PHP Parse error:  syntax error, unexpected '；' (T_STRING), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample29/submit.php on line 8
