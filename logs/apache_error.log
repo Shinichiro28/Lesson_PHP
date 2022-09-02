@@ -13,3 +13,7 @@
 [Mon Aug 22 14:59:28.015056 2022] [authz_core:error] [pid 21963] [client ::1:59854] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/lesson01/.DS_Store
 [Mon Aug 22 15:52:11.905550 2022] [authz_core:error] [pid 21982] [client ::1:59973] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/lesson01/.DS_Store
 [Mon Aug 22 16:03:01.515347 2022] [authz_core:error] [pid 21968] [client ::1:60009] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/lesson01/.DS_Store
+[Thu Sep 01 14:22:39.363833 2022] [mpm_prefork:notice] [pid 21960] AH00169: caught SIGTERM, shutting down
+[Thu Sep 01 16:40:20.475629 2022] [:notice] [pid 1482] FastCGI: process manager initialized (pid 1482)
+[Thu Sep 01 16:40:20.483699 2022] [mpm_prefork:notice] [pid 1477] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.0.2u PHP/7.4.21 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Thu Sep 01 16:40:20.483911 2022] [core:notice] [pid 1477] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'

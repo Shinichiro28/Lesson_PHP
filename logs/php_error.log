@@ -193,3 +193,26 @@ Stack trace:
 [22-Aug-2022 05:52:16 UTC] PHP Notice:  Undefined variable: value in /Applications/MAMP/htdocs/lesson01/sample27/page02.php on line 10
 [22-Aug-2022 05:52:16 UTC] PHP Notice:  Undefined index: message in /Applications/MAMP/htdocs/lesson01/sample27/page02.php on line 11
 [22-Aug-2022 06:39:38 UTC] PHP Parse error:  syntax error, unexpected '；' (T_STRING), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample29/submit.php on line 8
+[02-Sep-2022 13:30:15 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /Applications/MAMP/htdocs/lesson03/sample01.php on line 12
+[02-Sep-2022 13:30:57 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/lesson03/sample01.php on line 13
+[02-Sep-2022 13:30:58 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/lesson03/sample01.php on line 13
+[02-Sep-2022 13:54:26 UTC] PHP Parse error:  syntax error, unexpected 'assoc' (T_STRING) in /Applications/MAMP/htdocs/lesson03/sample02.php on line 14
+[02-Sep-2022 13:58:15 UTC] PHP Parse error:  syntax error, unexpected ''<br>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson03/sample02.php on line 15
+[02-Sep-2022 14:02:00 UTC] PHP Notice:  Undefined index: item_name in /Applications/MAMP/htdocs/lesson03/sample02.php on line 15
+[02-Sep-2022 14:02:15 UTC] PHP Notice:  Undefined index: item_name in /Applications/MAMP/htdocs/lesson03/sample02.php on line 15
+[02-Sep-2022 14:02:21 UTC] PHP Notice:  Undefined index: item_name in /Applications/MAMP/htdocs/lesson03/sample02.php on line 15
+[02-Sep-2022 14:02:21 UTC] PHP Notice:  Undefined index: item_name in /Applications/MAMP/htdocs/lesson03/sample02.php on line 15
+[02-Sep-2022 14:02:22 UTC] PHP Notice:  Undefined index: item_name in /Applications/MAMP/htdocs/lesson03/sample02.php on line 15
+[02-Sep-2022 14:02:22 UTC] PHP Notice:  Undefined index: item_name in /Applications/MAMP/htdocs/lesson03/sample02.php on line 15
+[02-Sep-2022 14:02:22 UTC] PHP Notice:  Undefined index: item_name in /Applications/MAMP/htdocs/lesson03/sample02.php on line 15
+[02-Sep-2022 14:02:22 UTC] PHP Notice:  Undefined index: item_name in /Applications/MAMP/htdocs/lesson03/sample02.php on line 15
+[02-Sep-2022 14:02:22 UTC] PHP Notice:  Undefined index: item_name in /Applications/MAMP/htdocs/lesson03/sample02.php on line 15
+[02-Sep-2022 14:02:22 UTC] PHP Notice:  Undefined index: item_name in /Applications/MAMP/htdocs/lesson03/sample02.php on line 15
+[02-Sep-2022 14:02:23 UTC] PHP Notice:  Undefined index: item_name in /Applications/MAMP/htdocs/lesson03/sample02.php on line 15
+[02-Sep-2022 14:02:23 UTC] PHP Notice:  Undefined index: item_name in /Applications/MAMP/htdocs/lesson03/sample02.php on line 15
+[02-Sep-2022 14:02:39 UTC] PHP Notice:  Undefined index: item_name in /Applications/MAMP/htdocs/lesson03/sample02.php on line 15
+[02-Sep-2022 14:02:40 UTC] PHP Notice:  Undefined index: item_name in /Applications/MAMP/htdocs/lesson03/sample02.php on line 15
+[02-Sep-2022 14:02:41 UTC] PHP Notice:  Undefined index: item_name in /Applications/MAMP/htdocs/lesson03/sample02.php on line 15
+[02-Sep-2022 14:02:41 UTC] PHP Notice:  Undefined index: item_name in /Applications/MAMP/htdocs/lesson03/sample02.php on line 15
+[02-Sep-2022 14:02:49 UTC] PHP Notice:  Undefined index: item_name in /Applications/MAMP/htdocs/lesson03/sample02.php on line 15
+[02-Sep-2022 14:56:04 UTC] PHP Parse error:  syntax error, unexpected 'stmt' (T_STRING) in /Applications/MAMP/htdocs/memo/input_do.php on line 4
