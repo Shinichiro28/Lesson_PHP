@@ -216,3 +216,49 @@ Stack trace:
 [02-Sep-2022 14:02:41 UTC] PHP Notice:  Undefined index: item_name in /Applications/MAMP/htdocs/lesson03/sample02.php on line 15
 [02-Sep-2022 14:02:49 UTC] PHP Notice:  Undefined index: item_name in /Applications/MAMP/htdocs/lesson03/sample02.php on line 15
 [02-Sep-2022 14:56:04 UTC] PHP Parse error:  syntax error, unexpected 'stmt' (T_STRING) in /Applications/MAMP/htdocs/memo/input_do.php on line 4
+[03-Sep-2022 01:46:43 UTC] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /Applications/MAMP/htdocs/memo/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/memo/index.php on line 2
+[03-Sep-2022 01:51:41 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/memo/index.php on line 18
+[03-Sep-2022 01:52:45 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/memo/index.php on line 18
+[03-Sep-2022 01:52:46 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/memo/index.php on line 18
+[03-Sep-2022 02:00:22 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/memo/index.php on line 18
+[03-Sep-2022 02:00:24 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/memo/index.php on line 18
+[03-Sep-2022 02:00:24 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/memo/index.php on line 18
+[03-Sep-2022 02:00:25 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/memo/index.php on line 18
+[03-Sep-2022 02:00:25 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/memo/index.php on line 18
+[03-Sep-2022 02:00:25 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/memo/index.php on line 18
+[03-Sep-2022 02:00:25 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/memo/index.php on line 18
+[03-Sep-2022 02:00:25 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/memo/index.php on line 18
+[03-Sep-2022 02:00:26 UTC] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/memo/index.php on line 18
+[03-Sep-2022 02:01:05 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/memo/index.php on line 21
+[03-Sep-2022 02:01:27 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/memo/index.php on line 21
+[03-Sep-2022 02:01:47 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /Applications/MAMP/htdocs/memo/index.php on line 24
+[03-Sep-2022 02:04:18 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/memo/index.php on line 19
+[03-Sep-2022 02:04:53 UTC] PHP Notice:  Undefined index: $memo in /Applications/MAMP/htdocs/memo/index.php on line 20
+[03-Sep-2022 02:04:53 UTC] PHP Notice:  Undefined index: $memo in /Applications/MAMP/htdocs/memo/index.php on line 20
+[03-Sep-2022 02:04:53 UTC] PHP Notice:  Undefined index: $memo in /Applications/MAMP/htdocs/memo/index.php on line 20
+[03-Sep-2022 02:04:53 UTC] PHP Notice:  Undefined index: $memo in /Applications/MAMP/htdocs/memo/index.php on line 20
+[03-Sep-2022 02:04:53 UTC] PHP Notice:  Undefined index: $memo in /Applications/MAMP/htdocs/memo/index.php on line 20
+[03-Sep-2022 02:04:53 UTC] PHP Notice:  Undefined index: $memo in /Applications/MAMP/htdocs/memo/index.php on line 20
+[03-Sep-2022 03:50:11 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /Applications/MAMP/htdocs/memo/memo.php on line 14
+[03-Sep-2022 03:50:21 UTC] PHP Parse error:  syntax error, unexpected ';' in /Applications/MAMP/htdocs/memo/memo.php on line 14
+[03-Sep-2022 03:50:21 UTC] PHP Parse error:  syntax error, unexpected ';' in /Applications/MAMP/htdocs/memo/memo.php on line 14
+[03-Sep-2022 03:50:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /Applications/MAMP/htdocs/memo/memo.php on line 14
+[03-Sep-2022 03:50:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /Applications/MAMP/htdocs/memo/memo.php on line 14
+[03-Sep-2022 03:52:27 UTC] PHP Parse error:  syntax error, unexpected ';' in /Applications/MAMP/htdocs/memo/memo.php on line 14
+[03-Sep-2022 03:52:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /Applications/MAMP/htdocs/memo/memo.php on line 14
+[03-Sep-2022 03:52:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /Applications/MAMP/htdocs/memo/memo.php on line 14
+[03-Sep-2022 05:02:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /Applications/MAMP/htdocs/memo/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/memo/index.php on line 6
+[03-Sep-2022 05:03:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /Applications/MAMP/htdocs/memo/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/memo/index.php on line 6
+[03-Sep-2022 05:03:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /Applications/MAMP/htdocs/memo/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/memo/index.php on line 6
