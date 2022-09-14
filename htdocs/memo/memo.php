@@ -24,6 +24,11 @@
   $stmt->fetch();
   ?>
 
-  <div><?php echo htmlspecialchars($memo); ?></div>
+  <div><pre><?php echo htmlspecialchars($memo); ?></pre></div>
+  <p>
+    <a href="update.php?id=<?php echo $id ?>">編集する</a>　
+    |　<a href="delete.php?id=<?php echo $id ?>">削除する</a>　
+    |　<a href="/memo">一覧へ</a>
+  </p>
 </body>
 </html>

@@ -262,3 +262,18 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /Applications/MAMP/htdocs/memo/index.php on line 6
+[14-Sep-2022 13:24:14 UTC] PHP Notice:  Undefined property: mysqli_stmt::$bind in /Applications/MAMP/htdocs/memo/update_do.php on line 10
+[14-Sep-2022 13:24:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function param() in /Applications/MAMP/htdocs/memo/update_do.php:10
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/memo/update_do.php on line 10
+[14-Sep-2022 13:27:44 UTC] PHP Notice:  Undefined property: mysqli_stmt::$bind in /Applications/MAMP/htdocs/memo/update_do.php on line 10
+[14-Sep-2022 13:27:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function param() in /Applications/MAMP/htdocs/memo/update_do.php:10
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/memo/update_do.php on line 10
+[14-Sep-2022 13:27:55 UTC] PHP Notice:  Undefined property: mysqli_stmt::$bind in /Applications/MAMP/htdocs/memo/update_do.php on line 10
+[14-Sep-2022 13:27:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function param() in /Applications/MAMP/htdocs/memo/update_do.php:10
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/memo/update_do.php on line 10
