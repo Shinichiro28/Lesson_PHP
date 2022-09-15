@@ -277,3 +277,47 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /Applications/MAMP/htdocs/memo/update_do.php on line 10
+[15-Sep-2022 04:55:55 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/lesson01/sample02.php on line 12
+[15-Sep-2022 05:06:53 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /Applications/MAMP/htdocs/lesson01/sample03.php on line 2
+[15-Sep-2022 05:06:53 UTC] PHP Notice:  A non well formed numeric value encountered in /Applications/MAMP/htdocs/lesson01/sample03.php on line 2
+[15-Sep-2022 05:07:21 UTC] PHP Notice:  A non well formed numeric value encountered in /Applications/MAMP/htdocs/lesson01/sample03.php on line 2
+[15-Sep-2022 05:07:22 UTC] PHP Notice:  A non well formed numeric value encountered in /Applications/MAMP/htdocs/lesson01/sample03.php on line 2
+[15-Sep-2022 05:08:57 UTC] PHP Parse error:  syntax error, unexpected '123' (T_LNUMBER), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample03.php on line 2
+[15-Sep-2022 05:09:24 UTC] PHP Parse error:  syntax error, unexpected '.123' (T_DNUMBER), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample03.php on line 2
+[15-Sep-2022 05:09:24 UTC] PHP Parse error:  syntax error, unexpected '.123' (T_DNUMBER), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample03.php on line 2
+[15-Sep-2022 05:09:25 UTC] PHP Parse error:  syntax error, unexpected '.123' (T_DNUMBER), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample03.php on line 2
+[15-Sep-2022 05:09:25 UTC] PHP Parse error:  syntax error, unexpected '.123' (T_DNUMBER), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample03.php on line 2
+[15-Sep-2022 05:09:25 UTC] PHP Parse error:  syntax error, unexpected '.123' (T_DNUMBER), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample03.php on line 2
+[15-Sep-2022 05:12:52 UTC] PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample03.php on line 2
+[15-Sep-2022 05:13:10 UTC] PHP Parse error:  syntax error, unexpected '.123' (T_DNUMBER), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample03.php on line 2
+[15-Sep-2022 05:17:53 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample03.php on line 4
+[15-Sep-2022 05:21:03 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample03.php on line 3
+[15-Sep-2022 05:23:18 UTC] PHP Warning:  Use of undefined constant G時 - assumed 'G時' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:18 UTC] PHP Warning:  Use of undefined constant i分 - assumed 'i分' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:18 UTC] PHP Warning:  Use of undefined constant s秒 - assumed 's秒' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:18 UTC] PHP Warning:  date() expects at most 2 parameters, 3 given in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:39 UTC] PHP Warning:  Use of undefined constant G時 - assumed 'G時' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:39 UTC] PHP Warning:  Use of undefined constant i分 - assumed 'i分' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:39 UTC] PHP Warning:  Use of undefined constant s秒 - assumed 's秒' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:39 UTC] PHP Warning:  date() expects at most 2 parameters, 3 given in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:40 UTC] PHP Warning:  Use of undefined constant G時 - assumed 'G時' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:40 UTC] PHP Warning:  Use of undefined constant i分 - assumed 'i分' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:40 UTC] PHP Warning:  Use of undefined constant s秒 - assumed 's秒' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:40 UTC] PHP Warning:  date() expects at most 2 parameters, 3 given in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:55 UTC] PHP Warning:  Use of undefined constant G時 - assumed 'G時' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:55 UTC] PHP Warning:  Use of undefined constant i分 - assumed 'i分' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:55 UTC] PHP Warning:  Use of undefined constant s秒 - assumed 's秒' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:55 UTC] PHP Warning:  date() expects at most 2 parameters, 3 given in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:55 UTC] PHP Warning:  Use of undefined constant G時 - assumed 'G時' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:55 UTC] PHP Warning:  Use of undefined constant i分 - assumed 'i分' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:55 UTC] PHP Warning:  Use of undefined constant s秒 - assumed 's秒' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:55 UTC] PHP Warning:  date() expects at most 2 parameters, 3 given in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:59 UTC] PHP Warning:  Use of undefined constant G時 - assumed 'G時' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:59 UTC] PHP Warning:  Use of undefined constant i分 - assumed 'i分' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:59 UTC] PHP Warning:  Use of undefined constant s秒 - assumed 's秒' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 05:23:59 UTC] PHP Warning:  date() expects at most 2 parameters, 3 given in /Applications/MAMP/htdocs/lesson01/sample04.php on line 2
+[15-Sep-2022 08:35:15 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting ';' or ',' in /Applications/MAMP/htdocs/lesson01/sample12.php on line 16
+[15-Sep-2022 08:35:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /Applications/MAMP/htdocs/lesson01/sample12.php on line 17
+[15-Sep-2022 08:35:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /Applications/MAMP/htdocs/lesson01/sample12.php on line 17
+[15-Sep-2022 08:35:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /Applications/MAMP/htdocs/lesson01/sample12.php on line 17
+[15-Sep-2022 08:53:19 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /Applications/MAMP/htdocs/lesson01/sample14.php on line 9
