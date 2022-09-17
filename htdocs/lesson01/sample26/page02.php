@@ -4,10 +4,12 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Page02</title>
+  <title>page02</title>
 </head>
 <body>
-  変数の値: <?php echo $value; ?><br>
-  Cookieの値：<?php echo $_COOKIE['message']; ?>
+  変数の値：<?php echo $value; ?><br>
+  <!--$_COOKIE[name]: 現在のスクリプトにHTTPクッキーから渡された変数の連想配列-->
+  <!--name: クッキーの名前を入力-->
+  Cookieの値：　<?php echo $_COOKIE['message']; ?>
 </body>
 </html>

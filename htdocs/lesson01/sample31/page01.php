@@ -1,4 +1,5 @@
 <?php
+//指定のファイルを読み込ませる処理
 require('intax.php');
 
 $price = 1500;

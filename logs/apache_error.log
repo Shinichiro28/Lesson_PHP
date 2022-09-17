@@ -23,3 +23,6 @@
 [Wed Sep 14 21:37:35.211374 2022] [core:notice] [pid 10411] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
 [Thu Sep 15 13:46:14.983606 2022] [authz_core:error] [pid 10439] [client ::1:52507] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/lesson01/.DS_Store
 [Thu Sep 15 14:53:19.733121 2022] [authz_core:error] [pid 10431] [client ::1:52943] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/lesson01/.DS_Store
+[Thu Sep 15 23:22:09.347874 2022] [authz_core:error] [pid 10418] [client ::1:54016] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/lesson01/.DS_Store
+[Fri Sep 16 14:20:53.485384 2022] [authz_core:error] [pid 10419] [client ::1:55758] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/lesson01/.DS_Store
+[Fri Sep 16 14:22:06.407170 2022] [authz_core:error] [pid 10437] [client ::1:55766] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/lesson01/.DS_Store

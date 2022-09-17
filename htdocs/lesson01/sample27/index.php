@@ -1,7 +1,10 @@
 <?php
+//session_start(): 新しいセッションを開始or既存のセッションを再開する
 session_start();
+//現在のセッションIDを新しく生成したものと置き換える
 session_regenerate_id();
 
+//$_SESSION[]: セッション変数
 $_SESSION['message'] = 'セッションに保存した値です';
 ?>
 

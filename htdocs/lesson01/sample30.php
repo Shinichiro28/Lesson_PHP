@@ -1,9 +1,10 @@
 <?php
-/* 税込金額を返す */
+//独自ファンクションを作成
 function intax($value){
   return ceil($value * 1.1);
 }
-$price = 4000;
-$price_tax = intax($price);
+
+$price = 150;
+$price_tax = intax($value)
 echo $price_tax;
 ?>

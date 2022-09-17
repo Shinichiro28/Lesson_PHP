@@ -7,16 +7,15 @@
   <title>sample21</title>
 </head>
 <body>
-  <?php if(!empty($_REQUEST['reserve'])): ?>
   <h2>ご予約日</h2>
+  <!--reserveが配列のため、$_REQUESTでは直接表示できない-->
+  <!--そのため一旦変数に代入する-->
   <?php $reserves = $_REQUEST['reserve']; ?>
   <ul>
+    <!--変数に代入した配列をforeach構文で表示する-->
     <?php foreach($reserves as $reserve): ?>
-    <li><?php echo $reserve; ?></li>
+      <li><?php echo htmlspecialchars($reserve); ?></li>
     <?php endforeach; ?>
   </ul>
-  <?php else: ?>
-  <p>予約日がありません</p>
-  <?php endif ?>
 </body>
 </html>
