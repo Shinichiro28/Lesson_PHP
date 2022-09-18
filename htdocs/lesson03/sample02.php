@@ -11,6 +11,7 @@
     $db = new mysqli('localhost:8889', 'root', 'root', 'mydb');
     $records = $db->query('select count(*) as cnt from my_items');
     if ($records) {
+      //fetch_assoc(): 取得した情報を連想配列で返す。
       while ($record = $records->fetch_assoc()){
         echo $record['cnt'] . '<br>';
       }
