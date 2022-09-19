@@ -456,3 +456,19 @@ Stack trace:
 [16-Sep-2022 05:21:47 UTC] PHP Warning:  Use of undefined constant あ - assumed 'あ' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/lesson01/sample22.php on line 2
 [16-Sep-2022 05:22:03 UTC] PHP Warning:  Use of undefined constant あ - assumed 'あ' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/lesson01/sample22.php on line 2
 [17-Sep-2022 13:35:05 UTC] PHP Notice:  Undefined variable: value in /Applications/MAMP/htdocs/lesson01/sample26/page02.php on line 10
+[19-Sep-2022 02:45:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli() in /Applications/MAMP/htdocs/lesson03/sample04.php:11
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/lesson03/sample04.php on line 11
+[19-Sep-2022 02:46:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli() in /Applications/MAMP/htdocs/lesson03/sample04.php:11
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/lesson03/sample04.php on line 11
+[19-Sep-2022 09:57:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function prepare() in /Applications/MAMP/htdocs/memo/input_do.php:12
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/memo/input_do.php on line 12
+[19-Sep-2022 09:58:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function prepare() in /Applications/MAMP/htdocs/memo/input_do.php:12
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/memo/input_do.php on line 12
