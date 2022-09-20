@@ -1,6 +1,5 @@
 <?php
 require('dbconnect.php');
-
 $stmt = $db->prepare('delete from memos where id=?');
 if(!$stmt){
   die($db->error);
@@ -15,6 +14,5 @@ $success = $stmt->execute();
 if(!$success){
   die($db->error);
 }
-
-header('Location: index.php');
+header('Location: index.php')
 ?>

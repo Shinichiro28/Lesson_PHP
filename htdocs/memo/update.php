@@ -7,13 +7,13 @@ if(!$stmt){
 $id = filter_input(INPUT_GET, 'id', FILTER_SANITIZE_NUMBER_INT);
 $stmt->bind_param('i', $id);
 $stmt->execute();
-
 $stmt->bind_result($id, $memo, $created);
 $result = $stmt->fetch();
 if(!$result){
-  die('メモの指定が正しくありません');
+  die('メモの指定がただいくありません');
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -24,8 +24,11 @@ if(!$result){
 </head>
 <body>
   <form action="update_do.php" method="post">
-    <input type="hidden" name="id" value="<?php echo $id; ?>">
-    <textarea name="memo" cols="50" rows="10" placeholder="メモを入力して下さい"><?php echo htmlspecialchars($memo); ?></textarea><br>
+    <!-- idが次のページに受け渡しをする必要があるため-->
+    <input type="hidden" name="id", value="<?php echo $id; ?>"></input>
+    <textarea name="memo" cols="50" rows="10" placeholder="メモを入力して下さい">
+      <?php echo htmlspecialchars($memo) ?>
+    </textarea><br>
     <button type="submit">編集する</button>
   </form>
 </body>
