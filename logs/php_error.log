@@ -541,3 +541,22 @@ Stack trace:
 [20-Sep-2022 14:47:46 UTC] PHP Fatal error:  require(): Failed opening required 'dbconnect,php' (include_path='.:/Applications/MAMP/bin/php/php7.4.21/lib/php') in /Applications/MAMP/htdocs/memo/update_do.php on line 2
 [20-Sep-2022 14:48:14 UTC] PHP Warning:  Use of undefined constant si - assumed 'si' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/memo/update_do.php on line 9
 [20-Sep-2022 14:48:59 UTC] PHP Warning:  Use of undefined constant si - assumed 'si' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/memo/update_do.php on line 9
+[21-Sep-2022 13:14:08 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/bbs/join/index.php on line 35
+[21-Sep-2022 13:14:55 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/bbs/join/index.php on line 35
+[21-Sep-2022 13:14:59 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/bbs/join/index.php on line 35
+[21-Sep-2022 13:16:52 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/bbs/join/index.php on line 35
+[21-Sep-2022 13:44:07 UTC] PHP Warning:  Use of undefined constant ETN_QUOTES - assumed 'ETN_QUOTES' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/bbs/join/index.php on line 10
+[21-Sep-2022 13:44:07 UTC] PHP Warning:  htmlspecialchars() expects parameter 2 to be int, string given in /Applications/MAMP/htdocs/bbs/join/index.php on line 10
+[21-Sep-2022 13:46:22 UTC] PHP Warning:  Use of undefined constant ETN_QUOTES - assumed 'ETN_QUOTES' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/bbs/join/index.php on line 10
+[21-Sep-2022 13:46:22 UTC] PHP Warning:  htmlspecialchars() expects parameter 2 to be int, string given in /Applications/MAMP/htdocs/bbs/join/index.php on line 10
+[21-Sep-2022 14:12:56 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or ',' in /Applications/MAMP/htdocs/bbs/join/index.php on line 62
+[21-Sep-2022 14:13:21 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/bbs/join/index.php on line 62
+[21-Sep-2022 14:13:21 UTC] PHP Notice:  Undefined index: password in /Applications/MAMP/htdocs/bbs/join/index.php on line 69
+[21-Sep-2022 14:15:46 UTC] PHP Warning:  Use of undefined constant form - assumed 'form' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/bbs/join/index.php on line 22
+[21-Sep-2022 14:15:46 UTC] PHP Warning:  Illegal string offset 'email' in /Applications/MAMP/htdocs/bbs/join/index.php on line 22
+[21-Sep-2022 14:15:46 UTC] PHP Warning:  Use of undefined constant form - assumed 'form' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/bbs/join/index.php on line 26
+[21-Sep-2022 14:15:46 UTC] PHP Warning:  Illegal string offset 'password' in /Applications/MAMP/htdocs/bbs/join/index.php on line 26
+[21-Sep-2022 14:15:51 UTC] PHP Warning:  Use of undefined constant form - assumed 'form' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/bbs/join/index.php on line 22
+[21-Sep-2022 14:15:51 UTC] PHP Warning:  Illegal string offset 'email' in /Applications/MAMP/htdocs/bbs/join/index.php on line 22
+[21-Sep-2022 14:15:51 UTC] PHP Warning:  Use of undefined constant form - assumed 'form' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/bbs/join/index.php on line 26
+[21-Sep-2022 14:15:51 UTC] PHP Warning:  Illegal string offset 'password' in /Applications/MAMP/htdocs/bbs/join/index.php on line 26
