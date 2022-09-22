@@ -560,3 +560,14 @@ Stack trace:
 [21-Sep-2022 14:15:51 UTC] PHP Warning:  Illegal string offset 'email' in /Applications/MAMP/htdocs/bbs/join/index.php on line 22
 [21-Sep-2022 14:15:51 UTC] PHP Warning:  Use of undefined constant form - assumed 'form' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/bbs/join/index.php on line 26
 [21-Sep-2022 14:15:51 UTC] PHP Warning:  Illegal string offset 'password' in /Applications/MAMP/htdocs/bbs/join/index.php on line 26
+[22-Sep-2022 14:34:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /Applications/MAMP/htdocs/bbs/join/index.php on line 42
+[22-Sep-2022 14:35:16 UTC] PHP Notice:  Undefined variable: db in /Applications/MAMP/htdocs/bbs/library.php on line 14
+[22-Sep-2022 14:35:44 UTC] PHP Notice:  Undefined variable: db in /Applications/MAMP/htdocs/bbs/library.php on line 14
+[22-Sep-2022 14:35:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /Applications/MAMP/htdocs/bbs/join/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bbs/join/index.php on line 34
+[22-Sep-2022 14:37:20 UTC] PHP Warning:  mysqli_stmt::bind_result() expects at least 1 parameter, 0 given in /Applications/MAMP/htdocs/bbs/join/index.php on line 43
+[22-Sep-2022 14:37:20 UTC] PHP Notice:  Undefined variable: cnt in /Applications/MAMP/htdocs/bbs/join/index.php on line 46
+[22-Sep-2022 14:37:48 UTC] PHP Warning:  mysqli_stmt::bind_result() expects at least 1 parameter, 0 given in /Applications/MAMP/htdocs/bbs/join/index.php on line 43
+[22-Sep-2022 14:37:48 UTC] PHP Notice:  Undefined variable: cnt in /Applications/MAMP/htdocs/bbs/join/index.php on line 46
