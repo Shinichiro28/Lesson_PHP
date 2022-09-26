@@ -443,3 +443,99 @@ Version: '5.7.34'  socket: '/Applications/MAMP/tmp/mysql/mysql.sock'  port: 8889
 2022-09-25T13:19:36.678672Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
 2022-09-25T13:19:36.678737Z 0 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
 2022-09-25T13:19:36.678757Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-25T14:17:02.336706Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 909205ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T14:30:05.945568Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 722122ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T14:47:46.314656Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 1012016ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T15:03:50.317438Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 917638ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T15:22:30.280727Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 1074694ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T15:40:44.392465Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 1001450ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T16:00:47.218934Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 899737ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T16:18:34.608121Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 975749ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T16:34:38.749883Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 902758ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T16:51:49.694940Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 984605ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T17:09:10.348785Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 994300ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T18:29:31.145848Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 503911ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T18:45:20.615312Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 903109ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T19:03:02.849712Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 1014829ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T19:19:03.933838Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 915697ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T20:36:00.168962Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 991478ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T20:54:08.547229Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 996768ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T21:12:41.564515Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 1065656ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T21:31:29.195146Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 983512ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T21:49:26.688633Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 985795ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T21:54:00.696085Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 227643ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T22:11:31.613751Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 1004553ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T22:27:52.579550Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 935622ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-25T22:44:04.043695Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 911026ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T00:02:11.861604Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 1017226ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T01:14:12.509516Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 540058ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T02:30:53.738543Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 933218ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T02:47:55.569713Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 960273ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T03:01:35.808338Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 773828ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T04:17:34.845880Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 942560ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T04:35:07.015275Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 949364ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T04:53:28.949576Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 1055577ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T05:09:45.857822Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 930546ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T06:14:07.332281Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 227898ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T06:18:35.013204Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 187019ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T06:48:12.724673Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 929492ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T07:05:51.700539Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 996562ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T07:11:20.143409Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 281088ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T07:43:24.585900Z 0 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T07:43:24.586792Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T07:43:24.586861Z 0 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T07:43:24.586881Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T07:43:24.587185Z 0 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T07:43:24.587212Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T07:43:24.587303Z 0 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T07:43:24.587342Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T07:43:24.587411Z 0 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T07:43:24.587453Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T08:44:29.661817Z 0 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T08:44:29.662657Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T08:44:29.662729Z 0 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T08:44:29.662749Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T08:44:29.663015Z 0 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T08:44:29.663043Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T08:44:29.663131Z 0 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T08:44:29.663156Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T08:44:29.663217Z 0 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T08:44:29.663241Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T09:00:47.906963Z 0 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T09:00:47.907023Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T09:00:47.907097Z 0 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T09:00:47.907118Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T09:00:47.907376Z 0 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T09:00:47.907404Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T09:00:47.907506Z 0 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T09:00:47.907528Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T09:00:47.907590Z 0 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T09:00:47.907609Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T09:03:35.265675Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 59798ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T09:19:27.232954Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 906638ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T10:23:27.468389Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 207768ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T10:27:38.595183Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 159466ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T10:33:06.868449Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 281941ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T10:59:58.877583Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 926703ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T11:30:35.630628Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 958019ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T11:41:01.631192Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 478681ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T11:59:19.705603Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 906361ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T12:00:35.391521Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 29299ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T12:16:38.295206Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 917483ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T12:25:04.303864Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 415225ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2022-09-26T12:35:04.930307Z 3802 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T12:35:04.930405Z 3802 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T12:35:04.930916Z 3802 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T12:35:04.930959Z 3802 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T12:35:04.959408Z 3802 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T12:35:04.959517Z 3802 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T12:35:04.959579Z 3802 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T12:35:04.959617Z 3802 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T12:35:04.959937Z 3802 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T12:35:04.959986Z 3802 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T12:35:04.960137Z 3802 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T12:35:04.960179Z 3802 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T12:35:04.960295Z 3802 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T12:35:04.960348Z 3802 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T12:35:09.890240Z 3803 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2022-09-26T12:35:09.890298Z 3803 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
