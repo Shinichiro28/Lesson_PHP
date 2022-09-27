@@ -32,3 +32,6 @@
 [Wed Sep 21 14:23:39.910691 2022] [core:notice] [pid 5532] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
 [Mon Sep 26 22:16:12.355308 2022] [php7:error] [pid 80302] [client ::1:63056] script '/Applications/MAMP/htdocs/memo02/index.php' not found or unable to stat, referer: http://localhost:8888/memo02/input_do.php
 [Tue Sep 27 22:45:14.682930 2022] [php7:error] [pid 5539] [client ::1:64363] script '/Applications/MAMP/htdocs/memo02/memo.php' not found or unable to stat, referer: http://localhost:8888/memo02/index.php
+[Tue Sep 27 23:59:42.821225 2022] [php7:error] [pid 93132] [client ::1:65003] script '/Applications/MAMP/htdocs/memo02/memo.php' not found or unable to stat, referer: http://localhost:8888/memo02/index.php?page=3
+[Tue Sep 27 23:59:47.678480 2022] [php7:error] [pid 93132] [client ::1:65003] script '/Applications/MAMP/htdocs/memo02/memo.php' not found or unable to stat, referer: http://localhost:8888/memo02/index.php?page=2
+[Tue Sep 27 23:59:51.477202 2022] [php7:error] [pid 93132] [client ::1:65003] script '/Applications/MAMP/htdocs/memo02/memo.php' not found or unable to stat, referer: http://localhost:8888/memo02/index.php?page=2
