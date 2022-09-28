@@ -35,3 +35,4 @@
 [Tue Sep 27 23:59:42.821225 2022] [php7:error] [pid 93132] [client ::1:65003] script '/Applications/MAMP/htdocs/memo02/memo.php' not found or unable to stat, referer: http://localhost:8888/memo02/index.php?page=3
 [Tue Sep 27 23:59:47.678480 2022] [php7:error] [pid 93132] [client ::1:65003] script '/Applications/MAMP/htdocs/memo02/memo.php' not found or unable to stat, referer: http://localhost:8888/memo02/index.php?page=2
 [Tue Sep 27 23:59:51.477202 2022] [php7:error] [pid 93132] [client ::1:65003] script '/Applications/MAMP/htdocs/memo02/memo.php' not found or unable to stat, referer: http://localhost:8888/memo02/index.php?page=2
+[Wed Sep 28 11:25:01.440358 2022] [php7:error] [pid 5671] [client ::1:49209] script '/Applications/MAMP/htdocs/memo02/update_do.php' not found or unable to stat, referer: http://localhost:8888/memo02/memo.php?=11

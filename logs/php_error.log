@@ -899,3 +899,6 @@ Stack trace:
 [27-Sep-2022 14:23:43 UTC] PHP Notice:  Undefined variable: record in /Applications/MAMP/htdocs/memo02/index.php on line 39
 [27-Sep-2022 14:23:55 UTC] PHP Notice:  Undefined variable: record in /Applications/MAMP/htdocs/memo02/index.php on line 39
 [27-Sep-2022 14:24:14 UTC] PHP Notice:  Undefined variable: record in /Applications/MAMP/htdocs/memo02/index.php on line 39
+[28-Sep-2022 04:18:43 UTC] PHP Warning:  Use of undefined constant si - assumed 'si' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/memo/update_do.php on line 9
+[28-Sep-2022 08:09:29 UTC] PHP Warning:  require(dbconnect): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/memo02/delete.php on line 2
+[28-Sep-2022 08:09:29 UTC] PHP Fatal error:  require(): Failed opening required 'dbconnect' (include_path='.:/Applications/MAMP/bin/php/php7.4.21/lib/php') in /Applications/MAMP/htdocs/memo02/delete.php on line 2
