@@ -902,3 +902,12 @@ Stack trace:
 [28-Sep-2022 04:18:43 UTC] PHP Warning:  Use of undefined constant si - assumed 'si' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/memo/update_do.php on line 9
 [28-Sep-2022 08:09:29 UTC] PHP Warning:  require(dbconnect): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/memo02/delete.php on line 2
 [28-Sep-2022 08:09:29 UTC] PHP Fatal error:  require(): Failed opening required 'dbconnect' (include_path='.:/Applications/MAMP/bin/php/php7.4.21/lib/php') in /Applications/MAMP/htdocs/memo02/delete.php on line 2
+[29-Sep-2022 08:08:04 UTC] PHP Notice:  Undefined variable: id in /Applications/MAMP/htdocs/bookers1/books.php on line 25
+[29-Sep-2022 08:08:04 UTC] PHP Notice:  Undefined variable: id in /Applications/MAMP/htdocs/bookers1/books.php on line 26
+[29-Sep-2022 08:08:04 UTC] PHP Notice:  Undefined variable: id in /Applications/MAMP/htdocs/bookers1/books.php on line 27
+[29-Sep-2022 08:11:15 UTC] PHP Notice:  Undefined variable: id in /Applications/MAMP/htdocs/bookers1/books.php on line 25
+[29-Sep-2022 08:11:15 UTC] PHP Notice:  Undefined variable: id in /Applications/MAMP/htdocs/bookers1/books.php on line 26
+[29-Sep-2022 08:11:15 UTC] PHP Notice:  Undefined variable: id in /Applications/MAMP/htdocs/bookers1/books.php on line 27
+[29-Sep-2022 13:33:17 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /Applications/MAMP/htdocs/bookers1/books.php on line 3
+[29-Sep-2022 13:33:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /Applications/MAMP/htdocs/bookers1/books.php on line 32
+[29-Sep-2022 14:14:11 UTC] PHP Notice:  Undefined variable: title in /Applications/MAMP/htdocs/bookers1/book_do.php on line 4
