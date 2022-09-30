@@ -34,8 +34,8 @@ require('dbconnect.php');
         while($stmt->fetch()):
         ?>
         <tr>
-          <td><?php echo htmlspecialchars($title); ?></td>
-          <td><?php echo htmlspecialchars($body); ?></td>
+          <td><?php echo htmlspecialchars(mb_substr($title, 0, 10)); ?></td>
+          <td><?php echo htmlspecialchars(mb_substr($body, 0, 20)); ?></td>
           <td><a href="book.php?id=<?php echo $id; ?>">Show</a></td>
           <td><a href="edit.php?id=<?php echo $id; ?>">Edit</a></td>
           <td><a href="delete.php?id=<?php echo $id; ?>">Destroy</a></td>
